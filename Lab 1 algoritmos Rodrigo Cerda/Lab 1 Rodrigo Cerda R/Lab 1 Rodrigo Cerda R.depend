@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1474077693 source:c:\users\rodrigo\documents\usach\semestre 3\algoritmos y estructuras de datos\laboratorios\lab 1\lab 1 rodrigo cerda\lab 1 rodrigo cerda r\main.c
+	<stdio.h>
+	<stdlib.h>
+	"leer.h"
+	"algoritmos.h"
+	"ordenar.h"
+	"generar.h"
+
+1474071455 c:\users\rodrigo\documents\usach\semestre 3\algoritmos y estructuras de datos\laboratorios\lab 1\lab 1 rodrigo cerda\lab 1 rodrigo cerda r\leer.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"auxiliares.h"
+
+1474068608 c:\users\rodrigo\documents\usach\semestre 3\algoritmos y estructuras de datos\laboratorios\lab 1\lab 1 rodrigo cerda\lab 1 rodrigo cerda r\auxiliares.h
+
+1474073483 c:\users\rodrigo\documents\usach\semestre 3\algoritmos y estructuras de datos\laboratorios\lab 1\lab 1 rodrigo cerda\lab 1 rodrigo cerda r\algoritmos.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1474076650 c:\users\rodrigo\documents\usach\semestre 3\algoritmos y estructuras de datos\laboratorios\lab 1\lab 1 rodrigo cerda\lab 1 rodrigo cerda r\ordenar.h
+	<dirent.h>
+
+1474070428 c:\users\rodrigo\documents\usach\semestre 3\algoritmos y estructuras de datos\laboratorios\lab 1\lab 1 rodrigo cerda\lab 1 rodrigo cerda r\generar.h
+	<time.h>
+	<math.h>
+	<dirent.h>
+
